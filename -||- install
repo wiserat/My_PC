@@ -4,3 +4,12 @@ htop
 gnome-tweak-tool
 python3
 nodejs
+sway
+wayland
+xorg-xwayland
+alacritty
+wofi
+firefox
+pulseaudio
+pulseaudio-alsa
+alsa-utils
