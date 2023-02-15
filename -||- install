@@ -16,3 +16,7 @@ alsa-utils
 neofetch
 uwufetch
 zsh
+curl 
+wget 
+sh
+git
