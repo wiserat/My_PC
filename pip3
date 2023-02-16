@@ -4,3 +4,6 @@ uvicorn
 starlette
 pydantic
 numpy
+SQLAlchemy
+flask_sqlalchemy
+flask_login
