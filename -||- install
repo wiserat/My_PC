@@ -20,3 +20,4 @@ curl
 wget 
 sh
 git
+authbind
