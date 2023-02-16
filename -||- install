@@ -21,3 +21,4 @@ wget
 sh
 git
 authbind
+python-pip
